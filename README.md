@@ -1,4 +1,4 @@
-# Qu-An Chatbot with Fine-Tuning and Sentiment Analysis Using Hugging Face Transformers
+# Question-Answering Chatbot with Fine-Tuning and Sentiment Analysis Using Hugging Face Transformers
 
 Welcome to this repository! This project explores the **Question Answering (Qu-An)** task in **Natural Language Processing (NLP)** using pre-trained models from **Hugging Face**. This README will guide you through the concepts, implementation, and use cases of question answering models.
 
